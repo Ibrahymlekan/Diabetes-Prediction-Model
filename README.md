@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Model
-To build a diabetes prediction model using logistic regression on a publicly available diabetes dataset
+Building a Diabetes Prediction Model that can accurately predict the disease from a publicly available diabetes dataset
